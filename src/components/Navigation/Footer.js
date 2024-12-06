@@ -33,7 +33,7 @@ function Footer() {
               </li>
               <li>
                 <i className="fas fa-phone me-2"></i>
-                +1 (555) 123-4567
+                +91 9873578927
               </li>
             </ul>
             {/* <div className="social-icons">
